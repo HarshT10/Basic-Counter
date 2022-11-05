@@ -4,7 +4,7 @@
 
 ![Basic Counter](./Image/basiccounter.JPG)
 
-[Netlify Link](basic-counter-harshcodes.netlify.app)
+[Netlify Link](https://basic-counter-harshcodes.netlify.app/)
 
 ---
 
